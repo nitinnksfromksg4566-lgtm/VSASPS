@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289929061769",
+    "project_id": "vs-enterprises-fb91f",
+    "storage_bucket": "vs-enterprises-fb91f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289929061769:android:3054e93be165c7be506d58",
+        "android_client_info": {
+          "package_name": "com.vsenterprises.attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlnwn_WuowXBsCSpzTedFWzaELKmMjdDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
